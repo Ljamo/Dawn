@@ -134,7 +134,7 @@ private:
 Walnut::Application* Walnut::CreateApplication(int argc, char** argv)
 {
 	Walnut::ApplicationSpecification spec;
-	spec.Name = "Ray Tracing";
+	spec.Name = "RayGen";
 
 	Walnut::Application* app = new Walnut::Application(spec);
 	app->PushLayer<ExampleLayer>();
