@@ -1,8 +1,8 @@
 # Dusk
 Path Tracing Engine
 #Requirements
-- #Python
+# - Python
   - Used for Scripts
-- #Vulkan
+# - Vulkan
   - Graphics Library Used
   - Could allow for other graphic libraries later on in development
