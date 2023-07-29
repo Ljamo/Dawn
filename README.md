@@ -1,6 +1,6 @@
 # Dusk
 Path Tracing Engine
-#Requirements
+# Requirements
 # - Python
   - Used for Scripts
 # - Vulkan
