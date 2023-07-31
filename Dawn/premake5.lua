@@ -1,4 +1,4 @@
-project "RayGen"
+project "Dawn"
    kind "ConsoleApp"
    language "C++"
    cppdialect "C++17"
