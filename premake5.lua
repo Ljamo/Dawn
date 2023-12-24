@@ -4,7 +4,7 @@ workspace "Dawn"
    configurations { "Debug", "Release", "Dist" }
    startproject "Dawn"
 
-outputdir = "%{cfg.buildcfg}-%{cfg.system}-%{cfg.architecture}"
+outputdir = "%(SolutionDir)%{cfg.buildcfg}-%{cfg.system}-%{cfg.architecture}"
 include "Walnut/WalnutExternal.lua"
 
 include "Dawn"
